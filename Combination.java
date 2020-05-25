@@ -2,7 +2,7 @@ public class Combination {
 
     // Instance variables.
     // Remove this comment and declare your instance variables here
-
+beep
     // Constructor
     public Combination( int first, int second, int third ) {
         // Your code here
